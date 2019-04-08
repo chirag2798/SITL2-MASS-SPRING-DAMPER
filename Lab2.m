@@ -1,5 +1,5 @@
 %Mass Spring Damper system
-%% Chanthini .R.A_3033
+%% Chirag_3035
 clc;clear all;close all;
 F=8;
 M=20;
